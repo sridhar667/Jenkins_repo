@@ -1,0 +1,2 @@
+using SCM POLL , tyring to configure the automatic build 
+using crontab for the SCM POLL
