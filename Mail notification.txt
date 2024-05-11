@@ -1,2 +1,3 @@
 test mail for email notification.
 mail needs to be triggered.
+success
