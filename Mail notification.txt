@@ -1,5 +1,4 @@
 !!!
-test mail for email notification.
 mail needs to be triggered.
 Mail sent success
 !!!!
